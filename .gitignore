@@ -1,3 +1,10 @@
 /datasets
 /models
 /runs
+/audio_files
+/audio_plots
+/generated
+train_idx.npy
+train_wave_idx.npy
+val_idx.npy
+val_wave_idx.npy
