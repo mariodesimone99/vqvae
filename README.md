@@ -1,6 +1,6 @@
 # VQ-VAE
 
-This project implements **VQ-VAE Model** ([paper link](https://arxiv.org/abs/1711.00937) for the generation of audio samples or changes through conditioning, the voice of an existing one
+This project implements **VQ-VAE Model** ([Neural Discrete Learning](https://arxiv.org/abs/1711.00937)) for the generation of audio samples or changes through conditioning, the voice of an existing one
 
 ## Project Structure
 
